@@ -7,7 +7,7 @@ package ulangnama;
 
 /**
  *
- * @author Helfi Apriliyandi F
+ * @author Dini Aryani
  */
 public class UlangNama {
 
