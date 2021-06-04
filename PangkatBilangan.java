@@ -7,7 +7,7 @@ package pangkatbilangan;
 
 /**
  *
- * @author Helfi Apriliyandi F
+ * @author Dini Aryani
  */
 public class PangkatBilangan {
 
